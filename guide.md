@@ -3,7 +3,5 @@
 # Initialize the live environ
 ## Networking 
 ```bash 
- ip addr show 
- ```
-```
+ip addr show 
 ```
