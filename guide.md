@@ -2,6 +2,8 @@
 
 # Initialize the live environ
 ## Networking
-'''Bash
+```Bash
+```Bash 
 ip addr show
-'''
+```
+```
