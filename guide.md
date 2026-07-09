@@ -16,4 +16,3 @@ station wlan0 connect SSID
 ip addr show 
 ping -c 5 www.archlinux.org
 ```
-```
